@@ -9,7 +9,7 @@ body {
   
   /* Header styles */
   #header {
-    background-color: #4a90e2;
+    background-color: #f7ad3e;
     color: white;
     text-align: center;
     padding: 50px 0;
@@ -42,7 +42,7 @@ body {
   
   .project h3 {
     font-size: 1.5em;
-    color: #4a90e2;
+    color: #e6412b;
   }
   
   /* Links styling */
